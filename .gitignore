@@ -3,6 +3,8 @@
 
 # Production
 /build
+/.codesandbox
+/.devcontainer
 
 # Generated files
 .docusaurus
